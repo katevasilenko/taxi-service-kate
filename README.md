@@ -6,6 +6,10 @@ Django project of taxi service
 
 [Taxi service Deployed to Heroku](https://taxi-service-kate.herokuapp.com/)
 
+You can test this site!
+login: user
+password: user12345
+
 ## Installing
 
 Python3 must be already installed
