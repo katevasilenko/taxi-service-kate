@@ -1,0 +1,50 @@
+body {
+  margin-top: 20px;
+  background: #DCE1E3
+}
+
+.list-group-item{
+  background-color: #DCE1E3;
+}
+
+a:hover{color: #800000;}
+
+a {color: #004E7C;}
+
+h1{
+  color: #5C5F58;
+}
+
+h3{ color: #5C5F58;}
+
+h4{color: #5C5F58;}
+
+.btn-primary{
+  background-color: #004E7C;
+  border-color: #004E7C;
+  color: #DCE1E3
+}
+
+.btn-danger{
+  background-color: #800000;
+  border-color: #800000;
+  color: #DCE1E3
+}
+
+.btn-secondary{
+  background-color: #5C5F58;
+  border-color: #5C5F58;
+  color: #DCE1E3
+}
+
+.btn-success{
+  background-color: darkgreen;
+  border-color: darkgreen;
+  color: #DCE1E3
+}
+
+.page-link{
+  background-color: #5C5F58;
+  border-color: #5C5F58;
+  color: #DCE1E3
+}
