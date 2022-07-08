@@ -4,7 +4,7 @@ Django project of taxi service
 
 ## Check it out!
 
-[Taxi service Deployed to Heroku](PAST_LINK)
+[Taxi service Deployed to Heroku](https://taxi-service-kate.herokuapp.com/)
 
 ## Installing
 
